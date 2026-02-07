@@ -1,0 +1,32 @@
+{
+  "relationships_followers": [
+    {
+      "string_list_data": [
+        {
+          "value": "user1"
+        }
+      ]
+    },
+    {
+      "string_list_data": [
+        {
+          "value": "user2"
+        }
+      ]
+    },
+    {
+      "string_list_data": [
+        {
+          "value": "mutual_friend"
+        }
+      ]
+    },
+    {
+      "string_list_data": [
+        {
+          "value": "follower_only"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+INSTAGRAM MUTUAL-FOLLOW ANALYSIS RESULTS
+==================================================
+
+Generated on: 2026-02-07 17:28:30
+Total Followers: 4
+Total Following: 4
+Mutual Followers: 1
+Following who don't follow back: 3
+Followers you don't follow back: 3
+
+FOLLOWING WHO DON'T FOLLOW YOU BACK (3 accounts):
+--------------------------------------------------
+@following_only
+@user3
+@user4
+
+FOLLOWERS YOU DON'T FOLLOW BACK (3 accounts):
+--------------------------------------------------
+@follower_only
+@user1
+@user2
+
+MUTUAL FOLLOWERS (1 accounts):
+----------------------------------------
+@mutual_friend

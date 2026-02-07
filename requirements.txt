@@ -1,0 +1,2 @@
+# Instagram Mutual-Follow Analyzer - Requirements
+# This tool uses only built-in Python libraries, no external dependencies required!
